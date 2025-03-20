@@ -1,13 +1,13 @@
-// var dogName = "mewmoew";
-// var dogWeight = 19;
+// var dogName = "meowers";
+// var dogWeight = 18;
 // if (dogWeight > 20) {
 //     console.log(dogName + " says, WOOF WOOF")
 // } else {
 //     console.log(dogName + " says, woof woof")
 // }
 
-// var dogName = "rapraphdogh";
-// var dogWeight = 25;
+// var dogName = "raphraphdog";
+// var dogWeight = 24;
 // if (dogWeight > 20) {
 //     console.log(dogName + " says, WOOF WOOF")
 // } else {
@@ -15,15 +15,15 @@
 // }
 
 // var dogName = "czardeldadog";
-// var dogWeight = 15;
+// var dogWeight = 13;
 // if (dogWeight > 20) {
 //     console.log(dogName + " says, WOOF WOOF")
 // } else {
 //     console.log(dogName + " says, woof woof")
 // }
 
-// var dogName = "dutae";
-// var dogWeight = 36;
+// var dogName = "dutaee";
+// var dogWeight = 38;
 // if (dogWeight > 20) {
 //     console.log(dogName + " says, WOOF WOOF")
 // } else {
@@ -38,8 +38,8 @@ function bark(name, weight) {
     }
 }
 
-bark("cory", 35);
-bark("awaw", 19);
-bark("khumi", 40);
-bark("eloy", 26);
+bark("dutaee", 35);
+bark("czardeldadog", 19);
+bark("raphraphdog", 40);
+bark("meowers", 26);
 bark("elay", 45);
